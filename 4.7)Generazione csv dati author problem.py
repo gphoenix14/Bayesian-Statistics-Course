@@ -12,7 +12,7 @@ I dati provengono dalla tabella “Distribuzione Tassi standardizzati”. :con
 import csv
 from pathlib import Path
 
-OUTPUT = Path("upon_rates.csv")
+OUTPUT = Path("data/upon_rates.csv")
 
 # valore centrale di ciascun intervallo di classe
 BIN_VALUE = {
