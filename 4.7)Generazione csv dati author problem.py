@@ -7,7 +7,6 @@ Genera il file upon_rates.csv con:
 • una riga finale per il documento n. 54 a paternità incerta
   (2 «upon» su 2008 parole → rate = 0.996).
 
-I dati provengono dalla tabella “Distribuzione Tassi standardizzati”. :contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}
 """
 import csv
 from pathlib import Path
