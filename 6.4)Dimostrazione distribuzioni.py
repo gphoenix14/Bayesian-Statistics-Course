@@ -49,7 +49,7 @@ plt.tight_layout()
 #              Probabilità di vincere al 5° tentativo.
 # ==============================================================
 
-p_geo  = 0.3
+p_geo  = 0.03
 k_geo  = np.arange(1, 16)
 pmf_geo = geom.pmf(k_geo, p_geo)
 

@@ -11,8 +11,8 @@ prior = np.array([0.5, 0.5])        # probabilità a priori
 # ---------------------------
 # Dati osservati
 # ---------------------------
-n_lanci = 3     # lanci totali
-k_teste = 2     # teste osservate
+n_lanci = 300     # lanci totali
+k_teste = 20     # teste osservate
 
 # ---------------------------
 # Verosimiglianze
